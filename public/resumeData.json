@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name":"Shaleka Taye ",
+    "description":"I am  software Engineer and work as web development engineer and I use react and node.js to develop pages. This project is poropofli  can describe me more ",
+    "image":"profilepic.jpg",
+    "bio":"My name is Shaleka TAye and I am front end Web Application Developer and Software Developer, currently living in Addis Ababa, Ethiopia. I have a Bachelor of Science in software engineering   from Arbaminch University, and my primary focus and inspiration for my studies is Web Development. In my free time, I study human computer interface and the psychology of human computer interaction. I am both driven and self-motivated, and I am constantly experimenting with new technologies and techniques. I am very passionate about Web Development, and strive to better myself as a developer, and the development community as a whole.",
+    "contactmessage":"write me  a message if you  want to contact with you.",
+    "email": "shalekataye07@gmail.com",
+    "phone": "+2519996728012",
+    "github":"https://github.com/shalekataye",
+    "project":"https://github.com/shalekataye/HulegebStore-",
+    "address":{
+      "street":"(Jemo michal Street)",
+      "city":"(Addis Ababa )",
+      "state":"(Ethiopia)",
+      "zip": "(0000)"
+    },
+    
+    
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/shaleka.taye",
+        "className":"fa fa-facebook"
+      },
+     
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/shaleka-taye-905745223/",
+        "className":"fa fa-linkedin"
+      },
+     
+      {
+        "name":"github",
+        "url":"https://github.com/shalekataye",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Arba, Minch university",
+        "degree":"Bachelor degree  in software Engineering",
+        "graduated":"oct 2021",
+        "CGPA":"3.43"
+      },
+      {
+
+      }
+    ],
+    "work":[
+      {
+        "company":"Metekel graphic design and  digital photo",
+        "title":"graphics design ",
+        "years":"sept 2020 - dec 2021",
+        "description":"Graphics picture designing, Logo design, Adobe potoshope editing and graphics  designing , and video editing using adobe perimer ."
+      },
+      {
+        "company":"Addis Media Network",
+        "title":"Internship",
+        "years":"Feb 2021 - june 2021",
+        "description":"Developing website for Addis Media Network called News portal system using php, js, HTML, and MYSQL, and project Presentation for mentors., ."
+      }
+    ],
+    "skills":[
+      {
+        "name":"nodejs",
+        "level":"60%"
+      },
+      {
+        "name":"HTML",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"90%"
+      },
+      {
+        "name":"Flutter",
+        "level":"60%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Ecommerce website",
+        "category":"online shopping system called HulegebStore",
+        "image":"01.jpg",
+        "url":"https://github.com/shalekataye/HulegebStore-"
+      },
+      {
+        "title":"react0portofoli tempaltes",
+        "category":"react template for personal information and student resume",
+        "image":"02.jpg",
+        "url":"https://github.com/shalekataye/my-portofoli"
+      },
+      {
+        "title":"online news portal system",
+        "category":"news portal system using php mysql html css",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+       
+      }
+      
+     
+      
+    ]
+  }
+}
