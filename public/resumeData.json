@@ -3,15 +3,15 @@
     "name":"Shaleka Taye ",
     "description":"I am  software Engineer and work as web development engineer and I use react and node.js to develop pages. This project is poropofli  can describe me more ",
     "image":"profilepic.jpg",
-    "bio":"My name is Shaleka TAye and I am front end Web Application Developer and Software Developer, currently living in Addis Ababa, Ethiopia. I have a Bachelor of Science in software engineering   from Arbaminch University, and my primary focus and inspiration for my studies is Web Development. In my free time, I study human computer interface and the psychology of human computer interaction. I am both driven and self-motivated, and I am constantly experimenting with new technologies and techniques. I am very passionate about Web Development, and strive to better myself as a developer, and the development community as a whole.",
+    "bio":"My name is Shaleka TAye and I am front end Web Application Developer and Software Developer, currently living in Nekemte, oromia,Ethiopia. I have a Bachelor of Science in software engineering   from Arbaminch University, and my primary focus and inspiration for my studies is Web Development. In my free time, I study human computer interface and the psychology of human computer interaction. I am both driven and self-motivated, and I am constantly experimenting with new technologies and techniques. I am very passionate about Web Development, and strive to better myself as a developer, and the development community as a whole.",
     "contactmessage":"write me  a message if you  want to contact with you.",
     "email": "shalekataye07@gmail.com",
     "phone": "+2519996728012",
     "github":"https://github.com/shalekataye",
     "project":"https://github.com/shalekataye/HulegebStore-",
     "address":{
-      "street":"(Jemo michal Street)",
-      "city":"(Addis Ababa )",
+      "street":"(Nekemte road from Addis Ababa to Assosa )",
+      "city":"(Nekemte)",
       "state":"(Ethiopia)",
       "zip": "(0000)"
     },
@@ -38,7 +38,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":" Course Skill",
     "education":[
       {
         "school":"Arba, Minch university",
@@ -67,7 +67,7 @@
     "skills":[
       {
         "name":"nodejs",
-        "level":"60%"
+        "level":"80%"
       },
       {
         "name":"HTML",
